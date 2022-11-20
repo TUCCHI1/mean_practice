@@ -1,11 +1,11 @@
 {
-  "name": "mean_practice",
+  "name": "tucchi_book",
   "version": "1.0.0",
-  "description": "",
+  "description": "(mean stack practice)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/index.ts"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
